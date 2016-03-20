@@ -1,5 +1,7 @@
 # HomeAutomation
 
+![](./docimages/Fullscreen.png)
+
 <div id="about">
 				<article>
                     <header>
