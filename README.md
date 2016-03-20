@@ -1,4 +1,6 @@
 # HomeAutomation
+Fullscreen:
+![Alt text](/docimages/Fullscreen.png?raw=true "Optional Title")
 
 <div id="about">
 				<article>
