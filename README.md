@@ -1,10 +1,5 @@
 # HomeAutomation
 
-Fullscreen:
-<img src="/docimages/Fullscreen.png?raw=true" align="left" height="480" width="200" ></a>
-<br>
-
-
 <div id="about">
 				<article>
                     <header>
