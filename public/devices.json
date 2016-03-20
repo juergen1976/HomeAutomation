@@ -1,0 +1,36 @@
+{
+  "name": "Jürgens Flat in Lörrach",
+  "homedevices": [
+    {
+      "id": "device_1",
+      "name": "Light in living room",
+      "type": "lightswitch",
+      "dataurl": "device_1.json",
+      "imageurl": "images/light.png"
+    },
+    {
+      "id": "device_2",
+      "name": "Light in bath",
+      "type": "lightswitch",
+      "dataurl": "device_2.json",
+      "imageurl": "images/light.png"
+    },
+    {
+      "id": "device_3",
+      "name": "Heater in bath",
+      "type": "heater",
+      "minValue": 10,
+      "maxValue": 30,
+      "unit": "Celsius",
+      "dataurl": "device_3.json",
+      "imageurl": "images/heater.png"
+    },
+    {
+      "id": "device_4",
+      "name": "Curtains sleeping room",
+      "type": "curtains",
+      "dataurl": "device_4.json",
+      "imageurl": "images/curtains.png"
+    }
+  ]
+}
